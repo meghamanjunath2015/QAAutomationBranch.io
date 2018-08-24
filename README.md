@@ -1,4 +1,4 @@
-# QAAutomationBranch.io
+# QAAutomation
 QA  Automation Challenge Suite 
 ## Getting Started
 
